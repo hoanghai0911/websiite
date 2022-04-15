@@ -1,0 +1,79 @@
+.dissolve{
+    width:100vw;
+    display:inline-flex;
+    justify-content:space-between;
+    background-color: rgb(247, 90, 12);
+    border-width:0px 0px 3px 0px;
+    border-style:solid;
+    border-color: red;
+}
+.cyclone{
+    display:inline-flex;
+}
+.strange{
+    margin:10px;
+}
+.evidence{
+    display:flex;
+    flex-direction: column;
+    border-width:80px 20vw;
+    border-style:solid;
+    border-color:rgb(177, 201, 201);
+    padding: 20px;
+    
+}
+.existence{
+    display:flex;
+    width:50vw;
+    margin: 10px;
+
+}
+.meteor{
+    flex:1
+}
+.spacecraft{min-width: 90px;
+
+}
+.experienced{
+    display:inline-flex;
+    justify-content:space-around;
+    background-image: linear-gradient(0, rgba(130, 205, 170, 0.29),rgba(206, 212, 122, 0.444));
+}
+.alien{
+    flex:1;
+}
+.claim{
+    flex:3;
+}
+.capture{
+    flex:1;
+}
+.device{
+    margin:20px
+}
+.disaster{
+    background-color: rgba(137, 171, 185, 0.432);
+    flex:1;
+}
+.natural{
+    background-color:rgba(226, 110, 194, 0.386) ;
+    flex:1;
+}
+.forecast{
+    background-color: rgba(211, 159, 122, 0.374);
+    flex:1;
+}
+.background{
+    
+    background-size: 20vw;
+    display:flex;
+    justify-content:space-around;
+    background-color: rgba(190, 179, 165, 0.766);
+}
+.fr{
+    margin:20px 40px;
+    padding:10px;
+}
+.soil{
+    margin:0px 30%;
+}
